@@ -1,0 +1,10 @@
+.container,.container-lg{
+    border: 5px solid black;
+
+}
+.bg-info{
+    background-color: aqua;
+}
+.bg-danger{
+    background-color:red;
+}
